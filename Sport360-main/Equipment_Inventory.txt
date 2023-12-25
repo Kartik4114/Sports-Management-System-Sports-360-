@@ -1,0 +1,70 @@
+23
+7 13 6
+volleyball
+volleyball
+7 13 6
+hockey
+hockey ball
+7 13 6
+hockey
+hockey stick
+7 13 6
+carrom
+powder
+7 13 6
+carrom
+board
+7 13 6
+carrom
+carrom coins
+6 13 7
+chess
+chess set
+7 13 6
+lawn tennis
+ball
+7 13 6
+lawn tennis
+racquet
+5 20 15
+football
+kit
+5 20 15
+football
+gloves
+5 20 15
+football
+football
+13 15 2
+basketball
+basketball
+5 20 15
+badminton
+shuttlecock
+5 25 15
+badminton
+racquet
+9 15 6
+table tennis
+net
+9 15 6
+table tennis
+ball
+9 15 6
+table tennis
+racquet
+15 22 7
+cricket
+stumps
+15 22 7
+cricket
+tennis ball
+15 22 7
+cricket
+leather ball
+15 25 7
+cricket
+kit
+15 22 7
+cricket
+bat
